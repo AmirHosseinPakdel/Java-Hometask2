@@ -1,0 +1,2 @@
+1,Toyota,Camry,2018,Blue,24000.0,XYZ123
+3,Toyota,Corolla,2020,White,20000.0,DEF789
